@@ -1,2 +1,2 @@
 # fullstackMobile
-![1]('./image/login-admin.png')
+![1](/image/login-admin.png)
