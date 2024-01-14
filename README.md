@@ -12,7 +12,8 @@
 ### login as user
 <div style="display: flex">
 <img src="/image/login-user.png" alt="drawing" width="150"/>
-<img src="/image/home-user.png" alt="drawing" width="150"/>
 <img src="/image/task-user.png" alt="drawing" width="150"/>
 <img src="/image/detailtask-user.png" alt="drawing" width="150"/>
+<img src="/image/detailtask3-user.png" alt="drawing" width="150"/>
+<img src="/image/detailtask4-user.png" alt="drawing" width="150"/>
 </div>
