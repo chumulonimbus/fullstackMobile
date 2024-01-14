@@ -1,2 +1,2 @@
 # fullstackMobile
-![1](/image/login-admin.png)
+<img src="/image/login-admin.png" alt="drawing" style="max-width: 30%"/>
